@@ -65,7 +65,7 @@ Next, within the cloned repo, you'll need to create a pw.js file with the follow
 6. If you would like to leave, click exit
 
 
-- [View Products For Sale]()
+- [View Products For Sale and Purchase](https://github.com/KATHERINERSL/bamazon/blob/master/images/customer_viewsales.PNG)
 
 
 ### Managers
@@ -84,6 +84,14 @@ Next, within the cloned repo, you'll need to create a pw.js file with the follow
 
 5. When you are ready to leave, click exit
 
+- [View Products For Inventory](https://github.com/KATHERINERSL/bamazon/blob/master/images/MGR_View.PNG)
+
+- [Add Products For Inventory](https://github.com/KATHERINERSL/bamazon/blob/master/images/MGR_addnew.PNG)
+
+- [View low Inventory](https://github.com/KATHERINERSL/bamazon/blob/master/images/MGR_Lowinventory.PNG)
+
+- [Increase Inventory](https://github.com/KATHERINERSL/bamazon/blob/master/images/MGR_Addinventory.PNG)
+
 ### Supervisors
 
 Run the following in your CLI while inside your cloned repo directory
@@ -97,4 +105,12 @@ Run the following in your CLI while inside your cloned repo directory
 2. If you select create new department, follow the prompts for department name and overhead costs
 
 3. When you are ready to leave, click exit
+
+- [Supervisor View](https://github.com/KATHERINERSL/bamazon/blob/master/images/Supervisor_View.PNG)
+
+- [New Department](https://github.com/KATHERINERSL/bamazon/blob/master/images/Supervisor_Newdepartment.PNG)
+
+
+
+
 
